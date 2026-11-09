@@ -7,7 +7,7 @@ npm run dev      # pratinjau lokal
 npm run build    # hasil di folder dist/
 ```
 
-## File yang perlu kamu taruh (semua teks ada di src/data.js, cari "TODO")
+## File yang perlu kamu taruh
 - public/foto.jpg : foto profil (sementara memakai foto dari CV; ganti jika punya yang lebih tajam)
 - public/haki/sertifikat-haki.jpg : gambar sertifikat HAKI
 - public/certs/ : gambar sertifikat (Dicoding dll). Tambah baris baru di `certs` untuk tiap sertifikat
